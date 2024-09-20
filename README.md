@@ -4,10 +4,10 @@ sebuah program berbasis program desktop Python dengan antarmuka (GUI) yang mengi
 
 cara menjalankan program dengan menggunakan IDE salah satu contohnya VSCode.
 
--buka VSCode
--buka file yang sudah disediakan
--jalankan file/source code
--pilih cipher yang diinginkan
--masukkan kata yang ingin dienkripsi/dekripsi
--masukkan Kunci minimal 12 karakter
--lalu output akan keluar dibagian output
+1. buka VSCode
+2. buka file yang sudah disediakan
+3. jalankan file/source code
+4. pilih cipher yang diinginkan
+5. masukkan kata yang ingin dienkripsi/dekripsi
+6. masukkan Kunci minimal 12 karakter
+7. lalu output akan keluar dibagian output
